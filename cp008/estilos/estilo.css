@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Emblema One";
+    src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"),
+    url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
+}
 body {
     background-color: antiquewhite;
     margin-right: 25%;
@@ -5,7 +10,7 @@ body {
     border: 1px;
     border-style: solid;
     padding: 20px 20px 20px 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Emblema One", sans-serif;
 }
 h1 {
     text-align: center;
