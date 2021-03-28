@@ -1,6 +1,7 @@
 /*Estudo sobre hierarquia e classes de elementos*/
 body {
     font-family: sans-serif;
+    color: green;
 }
 p {
     color: maroon;
@@ -14,15 +15,15 @@ h1 {
 em {
     color: red;
 }
-p.green_tea {
-    color: green;
-}
-p.raspberry_ice {
-    color: blue;
-}
 p.blueberry_bliss {
     color: purple;
 }
 p.cranberry_antioxidant {
     color: red;
+}
+p.green_tea {
+    color: green;
+}
+p.raspberry_ice {
+    color: blue;
 }
