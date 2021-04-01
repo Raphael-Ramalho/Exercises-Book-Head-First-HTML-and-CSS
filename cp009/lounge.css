@@ -16,6 +16,7 @@ h2 {
     border-style: dashed;
     border-color: white;
     border-width: 1px;
+    border-radius: 2em;
     background-color: #a7cece;
     padding: 25px;
     padding-left: 75px;
