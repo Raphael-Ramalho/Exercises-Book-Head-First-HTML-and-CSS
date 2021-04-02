@@ -4,7 +4,7 @@ body {
   line-height:         1.6em;
 }
 
-h1, h2, a {
+h1, h2 {
   color:               #007e7e;
 }
 
@@ -70,4 +70,17 @@ h2 {
 
 .artist {
   font-weight: bold;
+}
+
+a:link {
+  color: #007e7e;
+}
+
+a:visited {
+  color: #333333;
+}
+
+#elixirs a:hover {
+  background-color: #f88396;
+  color: #0d5353;
 }
