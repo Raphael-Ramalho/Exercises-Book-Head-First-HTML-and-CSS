@@ -46,12 +46,14 @@ h2 {
   text-align: center;
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
+  line-height: 120%;
 }
 
-div h2 {
+#elixirs h2 {
   color: black;
 }
 
-div h3 {
-  color: red;
+#elixirs h3 {
+  color: #d12c47;
 }
+
