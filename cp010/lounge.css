@@ -48,10 +48,10 @@ h2 {
   background-repeat: repeat-x;
 }
 
-#elixir_title {
+div h2 {
   color: black;
 }
 
-.sub_title {
+div h3 {
   color: red;
 }
