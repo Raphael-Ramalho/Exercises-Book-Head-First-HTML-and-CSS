@@ -35,52 +35,52 @@ h2 {
 }
 
 #elixirs {
-  border-style: solid;
-  border-width: thin;
-  border-color: #007e7e;
-  margin-left: 20px;
-  padding: 20px;
-  padding-top: 0px;
-  color: black;
-  width: 200px;
-  text-align: center;
-  background-image: url(images/cocktail.gif);
-  background-repeat: repeat-x;
-  line-height: 120%;
+  border-style:        solid;
+  border-width:        thin;
+  border-color:        #007e7e;
+  margin-left:         20px;
+  padding:             20px;
+  padding-top:         0px;
+  color:               black;
+  width:               200px;
+  text-align:          center;
+  background-image:    url(images/cocktail.gif);
+  background-repeat:   repeat-x;
+  line-height:         120%;
 }
 
 #elixirs h2 {
-  color: black;
+  color:               black;
 }
 
 #elixirs h3 {
-  color: #d12c47;
+  color:               #d12c47;
 }
 
 #footer {
-  font-size: 50%;
-  text-align: center;
-  line-height: normal;
-  margin-top: 30px;
+  font-size:           50%;
+  text-align:          center;
+  line-height:         normal;
+  margin-top:          30px;
 }
 
 .cd {
-  font-style: italic;
+  font-style:          italic;
 }
 
 .artist {
-  font-weight: bold;
+  font-weight:         bold;
 }
 
 a:link {
-  color: #007e7e;
+  color:               #007e7e;
 }
 
 a:visited {
-  color: #333333;
+  color:               #333333;
 }
 
 #elixirs a:hover {
-  background-color: #f88396;
-  color: #0d5353;
+  background-color:    #f88396;
+  color:               #0d5353;
 }
