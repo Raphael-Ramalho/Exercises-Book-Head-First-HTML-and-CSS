@@ -47,6 +47,7 @@ h2 {
   background-image:    url(images/cocktail.gif);
   background-repeat:   repeat-x;
   line-height:         120%;
+  float: right;
 }
 
 #elixirs h2 {
