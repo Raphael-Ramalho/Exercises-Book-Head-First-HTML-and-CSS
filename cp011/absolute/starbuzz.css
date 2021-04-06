@@ -9,6 +9,11 @@ body {
   background-color: #675c47;
   margin:           10px 10px 0px 10px;
   height:           108px;
+  min-width: max-content;
+}
+
+#headerText {
+  float: right;
 }
 
 #main {
@@ -79,3 +84,4 @@ div#drinks {
   background-position: top left;
   vertical-align:      top;
 }
+
