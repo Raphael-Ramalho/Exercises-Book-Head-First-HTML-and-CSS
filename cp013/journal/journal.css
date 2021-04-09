@@ -27,7 +27,7 @@ table {
   border: thin solid black;
   margin: 0px 20px;
   caption-side: bottom;
-  border-spacing: 10px 30px;
+  border-collapse: collapse;
 }
 
 th, td {
@@ -39,3 +39,24 @@ caption {
   font-style: italic;
   padding-top: 8px;
 }
+
+.center-align {
+  text-align: center;
+}
+
+.right-align {
+  text-align: right;
+}
+
+tr:nth-child(2n+3) {
+  background-color: #fcba7a;
+}
+
+th {
+  background-color: #cc6600;
+  padding: 10px;
+}
+
+/*.cellcolor {
+  background-color: #fcba7a;
+}*/
