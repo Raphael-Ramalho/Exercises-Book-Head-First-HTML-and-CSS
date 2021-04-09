@@ -48,15 +48,22 @@ caption {
   text-align: right;
 }
 
-tr:nth-child(2n+3) {
-  background-color: #fcba7a;
-}
-
 th {
   background-color: #cc6600;
   padding: 10px;
 }
 
-/*.cellcolor {
+.cellcolor {
   background-color: #fcba7a;
-}*/
+}
+
+table table th {
+  background-color: unset;
+}
+
+li {
+  list-style-image: url(images/backpack.gif);
+  list-style-position: outside;
+  padding-top: 5px;
+  margin-left: 20px;
+}
