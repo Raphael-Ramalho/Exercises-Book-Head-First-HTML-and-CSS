@@ -23,3 +23,19 @@ blockquote {
   font-style:      italic;
 }
 
+table {
+  border: thin solid black;
+  margin: 0px 20px;
+  caption-side: bottom;
+  border-spacing: 10px 30px;
+}
+
+th, td {
+  border:thin dotted gray;
+  padding-top: 5px;
+}
+
+caption {
+  font-style: italic;
+  padding-top: 8px;
+}
